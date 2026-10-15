@@ -1,7 +1,7 @@
-Assignment 1
+## Name: Hailemariam Dagnew
+ID: UGR/0344/16 
+## Assignment 1
 Practical: Data Exploration & Foundational Math
-Name: Hailemariam Dagnew
-ID: UGR/0344/16
 This repository contains the practical assignment. The work covers initial data cleaning, descriptive statistical analysis, visualization, vector operations, and feature scaling using a student performance dataset.
 
 ## Contents
